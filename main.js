@@ -1,6 +1,6 @@
 var game;
 
-$(document).ready(initializeGame)
+$(document).ready(initializeGame);
 
 function initializeGame(){
 	game = new whackamole("#gameArea",2);
