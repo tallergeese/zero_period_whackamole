@@ -1,0 +1,14 @@
+#gameArea{
+	height: 100vh;
+	width: 100vw;
+	background-color: lightgreen;
+}
+
+.mole{
+    width: 150px;
+    height: 150px;
+    background-size: contain;
+    background-image: url(images/moleup.png);
+    background-repeat: no-repeat;
+    background-color: red;
+}
